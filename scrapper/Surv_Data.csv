@@ -1,0 +1,93 @@
+Property_name,Renting_price,Category,Size,Bedroom,Bathroom,Property_Details,lat,lng,WiFi,CarPark,AirCond,HsKpngServ,LndryServ,WashingMac,DryerMac,Gym,SwmPool,Kitchen,Wardrobe,Fridge,Sofa,TV,Heater,ShuttleVan,Satisfaction_level,population
+Westlake Villas,650,Room,,1,1,"WiFi, Car Park, Air Conditioner, House Keeping Services, Laundry Services, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Water Heater, Shuttle Van",,,1,1,1,1,1,1,,1,1,1,1,1,1,,1,1,4,2
+westlake,230,Room,,1,1,"WiFi, Car Park, House Keeping Services, Kitchen, Wardrobe, Fridge, Water Heater",,,1,1,,1,,,,,,1,1,1,,,1,,3,3
+Champs,560,Room,,1,1,"Car Park, Air Conditioner, House Keeping Services, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Water Heater",,,,1,1,1,,1,,1,1,1,1,1,,,1,,4,2
+Oxford,170,Room,,1,1,"WiFi, House Keeping Services, Washing Machine, Fridge, Water Heater",,,1,,,1,,1,,,,,,1,,,1,,4,10
+Beijing,315,Room,,1,1,"WiFi, Car Park, House Keeping Services, Laundry Services, Wardrobe, Fridge",,,1,1,,1,1,,,,,,1,1,,,,,3,4
+Harvard,240,Room,,1,1,"Car Park, Washing Machine, Kitchen, Wardrobe, Fridge, Water Heater",,,,1,,,,1,,,,1,1,1,,,1,,3,1
+Beijing,230,Room,,1,1,"WiFi, Car Park, House Keeping Services, Laundry Services, Washing Machine, Drying Machine, Water Heater, Shuttle Van",,,1,1,,1,1,1,1,,,,,,,,1,1,3,13
+Oxford ,320,Room,,1,1,"WiFi, House Keeping Services, Washing Machine, Wardrobe, Fridge, Water Heater",,,1,,,1,,1,,,,,1,1,,,1,,3,10
+Trails of Kampar,350,Room,,1,1,"Car Park, Air Conditioner, Washing Machine, Drying Machine, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater",,,,1,1,,,1,1,,1,1,1,1,1,,1,,4,3
+Trails of Kampar,1000,Apartment,,3,2,"Car Park, Air Conditioner, Washing Machine, Drying Machine, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater",,,,1,1,,,1,1,,1,1,1,1,1,,1,,4,3
+Tsing Hua,280,Room,,1,1,"WiFi, House Keeping Services, Washing Machine, Kitchen, Fridge, Water Heater",,,1,,,1,,1,,,,1,,1,,,1,,2,9
+Imperial,3450,House,,11,11,"WiFi, House Keeping Services, Washing Machine, Wardrobe, Fridge, Water Heater",,,1,,,1,,1,,,,,1,1,,,1,,4,10
+Imperial,315,Room,,1,1,"WiFi, House Keeping Services, Washing Machine, Wardrobe, Fridge, Water Heater",,,1,,,1,,1,,,,,1,1,,,1,,4,1
+Oxford,280,Room,,1,1,"WiFi, House Keeping Services, Washing Machine, Wardrobe, Fridge, Sofa, Television, Water Heater",,,1,,,1,,1,,,,,1,1,,,1,,3,15
+Champs,550,Room,,1,1,"WiFi, Car Park, Air Conditioner, House Keeping Services, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Water Heater, Shuttle Van",,,1,1,1,1,,1,,1,1,1,1,1,,,1,1,5,1
+West city,700,House,,3,2,"Car Park, Air Conditioner, Washing Machine, Swimming Pool, Kitchen, Fridge, Sofa, Water Heater, Shuttle Van",,,,1,1,,,1,,,1,1,,1,1,,1,1,4,4
+Meadow Park,1150,Apartment,,4,3,"WiFi, Car Park, Air Conditioner, Washing Machine, Drying Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater, Shuttle Van",,,1,1,1,,,1,1,1,1,1,1,1,1,1,1,1,3,4
+Champs,550,Apartment,,1,1,"Car Park, Air Conditioner, House Keeping Services, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Water Heater, Shuttle Van",,,,1,1,1,,1,,1,1,1,1,1,,,1,1,4,1
+Trails of kampar,1000,House,,3,2,"Car Park, Air Conditioner, Washing Machine, Drying Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater",,,,1,1,,,1,1,1,1,1,1,1,1,1,1,,5,4
+Meadow Park,275,Room,,1,1,"WiFi, Car Park, Air Conditioner, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater, Shuttle Van",,,1,1,1,,,1,,1,1,1,1,1,1,1,1,1,4,4
+Meadow Park,1100,Room,,4,4,"WiFi, Car Park, Air Conditioner, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater, Shuttle Van",,,1,1,1,,,1,,1,1,1,1,1,1,1,1,1,4,4
+Yale,300,Room,,1,1,"Car Park, House Keeping Services, Washing Machine, Fridge, Sofa, Water Heater",,,,1,,1,,1,,,,,,1,1,,1,,4,5
+Westcity,700,Apartment,,3,2,"Car Park, Air Conditioner, Washing Machine, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Water Heater, Shuttle Van",,,,1,1,,,1,,,1,1,1,1,1,,1,1,3,4
+West city condo ,320,Apartment,,3,2,"WiFi, Car Park, Air Conditioner, Washing Machine, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Water Heater, Shuttle Van",,,1,1,1,,,1,,,1,1,1,1,1,,1,1,4,2
+Westcity Condo,450,Room,,1,1,"WiFi, Car Park, Air Conditioner, Washing Machine, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Water Heater, Shuttle Van",,,1,1,1,,,1,,,1,1,1,1,1,,1,1,4,4
+Westcity Condo,150,Room,,3,2,"WiFi, Car Park, Air Conditioner, Washing Machine, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Water Heater, Shuttle Van",,,1,1,1,,,1,,,1,1,1,1,1,,1,1,4,4
+Cambridge,240,Room,,1,1,"WiFi, Car Park, House Keeping Services, Laundry Services, Washing Machine, Kitchen, Wardrobe, Fridge, Water Heater",,,1,1,,1,1,1,,,,1,1,1,,,1,,4,8
+Cambridge,3350,House,,14,12,"WiFi, Car Park, House Keeping Services, Laundry Services, Washing Machine, Kitchen, Wardrobe, Fridge, Water Heater",,,1,1,,1,1,1,,,,1,1,1,,,1,,4,8
+Oxford,215,Room,,1,1,"WiFi, Car Park, House Keeping Services, Washing Machine, Kitchen, Wardrobe, Fridge, Water Heater",,,1,1,,1,,1,,,,1,1,1,,,1,,3,13
+Harvard,900,House,,4,4,"Car Park, Washing Machine, Kitchen, Wardrobe, Fridge, Sofa, Water Heater",,,,1,,,,1,,,,1,1,1,1,,1,,4,6
+Cambridge,230,Room,,1,1,"WiFi, Car Park, Air Conditioner, House Keeping Services, Washing Machine, Water Heater",,,1,1,1,1,,1,,,,,,,,,1,,4,5
+Westcity,225,House,,3,2,"WiFi, Car Park, Air Conditioner, Washing Machine, Drying Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater, Shuttle Van",,,1,1,1,,,1,1,1,1,1,1,1,1,1,1,1,4,5
+Harvard,900,House,,4,4,"Washing Machine, Wardrobe, Fridge, Sofa",,,,,,,,1,,,,,1,1,1,,,,4,6
+Champs,400,Room,,1,1,"WiFi, Car Park, Air Conditioner, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Fridge, Water Heater",,,1,1,1,,,1,,1,1,1,,1,,,1,,4,4
+Harvard,300,Room,,1,1,"WiFi, House Keeping Services, Laundry Services, Washing Machine, Kitchen, Fridge, Water Heater",,,1,,,1,1,1,,,,1,,1,,,1,,3,15
+Beijing,280,Room,,1,1,"WiFi, Car Park, House Keeping Services, Washing Machine, Kitchen, Wardrobe, Fridge, Water Heater",,,1,1,,1,,1,,,,1,1,1,,,1,,3,14
+Beijing,3350,House,,12,12,"WiFi, Car Park, House Keeping Services, Washing Machine, Kitchen, Wardrobe, Fridge, Water Heater",,,1,1,,1,,1,,,,1,1,1,,,1,,3,14
+Westlake Oxford,270,Room,,1,1,"WiFi, Car Park, House Keeping Services, Washing Machine, Kitchen, Wardrobe, Fridge, Water Heater",,,1,1,,1,,1,,,,1,1,1,,,1,,3,14
+Beijing,280,Room,,1,1,"WiFi, House Keeping Services, Washing Machine, Kitchen, Fridge, Water Heater",,,1,,,1,,1,,,,1,,1,,,1,,4,10
+Wesitcity,250,Room,,1,1,"Car Park, Air Conditioner, Wardrobe, Fridge, Water Heater",,,,1,1,,,,,,,,1,1,,,1,,3,1
+Manchester ,270,Room,,1,1,"WiFi, Air Conditioner, House Keeping Services, Washing Machine, Wardrobe, Fridge, Water Heater",,,1,,1,1,,1,,,,,1,1,,,1,,5,10
+Cambridge,210,Room,,1,1,"WiFi, House Keeping Services, Washing Machine, Kitchen, Wardrobe, Fridge, Water Heater",,,1,,,1,,1,,,,1,1,1,,,1,,4,10
+Westlake Villas,650,Apartment,,4,4,"WiFi, Car Park, Air Conditioner, House Keeping Services, Laundry Services, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater, Shuttle Van",,,1,1,1,1,1,1,,1,1,1,1,1,1,1,1,1,4,6
+Beijing,315,Room,,1,1,"WiFi, House Keeping Services, Laundry Services, Wardrobe, Fridge, Water Heater, Shuttle Van",,,1,,,1,1,,,,,,1,1,,,1,1,3,13
+trails,1200,House,,3,2,"Car Park, Air Conditioner, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater",,,,1,1,,,1,,1,1,1,1,1,1,1,1,,4,4
+Oxford,330,Room,,1,1,"WiFi, Car Park, House Keeping Services, Laundry Services, Washing Machine, Kitchen, Wardrobe, Fridge, Water Heater",,,1,1,,1,1,1,,,,1,1,1,,,1,,4,1
+Eastlake ,300,Room,,1,1,"WiFi, Car Park, Air Conditioner, Washing Machine, Drying Machine, Gymnasium, Kitchen, Wardrobe, Fridge, Water Heater, Shuttle Van",,,1,1,1,,,1,1,1,,1,1,1,,,1,1,5,10
+Harvard,900,House,,4,4,"Car Park, Washing Machine, Fridge, Sofa",,,,1,,,,1,,,,,,1,1,,,,3,5
+Westlake,275,Room,,1,1,"WiFi, House Keeping Services, Laundry Services, Kitchen, Wardrobe, Fridge, Water Heater, Shuttle Van",,,1,,,1,1,,,,,1,1,1,,,1,1,3,6
+Westlake oxford,310,Room,,1,1,"WiFi, House Keeping Services, Washing Machine, Kitchen, Water Heater",,,1,,,1,,1,,,,1,,,,,1,,3,8
+Oxford,200,Room,,1,1,"WiFi, Kitchen, Water Heater",,,1,,,,,,,,,1,,,,,1,,5,1
+Westlake villas,1800,Apartment,,3,2,"WiFi, Car Park, Air Conditioner, House Keeping Services, Laundry Services, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Water Heater, Shuttle Van",,,1,1,1,1,1,1,,1,1,1,1,1,1,,1,1,5,4
+Beijing,290,Room,,1,1,"WiFi, Car Park, House Keeping Services, Laundry Services, Wardrobe, Fridge, Water Heater",,,1,1,,1,1,,,,,,1,1,,,1,,3,7
+Harvard,280,House,,1,1,"Car Park, House Keeping Services, Washing Machine, Kitchen, Wardrobe, Fridge, Water Heater",,,,1,,1,,1,,,,1,1,1,,,1,,4,4
+Harvard,1150,House,,4,3,"Car Park, House Keeping Services, Washing Machine, Kitchen, Wardrobe, Fridge, Water Heater",,,,1,,1,,1,,,,1,1,1,,,1,,4,4
+Harvard ,140,House,,1,1,"WiFi, Car Park, House Keeping Services, Laundry Services, Kitchen, Fridge, Water Heater",,,1,1,,1,1,,,,,1,,1,,,1,,4,4
+Harvard ,560,House,,4,4,"WiFi, Car Park, House Keeping Services, Laundry Services, Kitchen, Fridge, Water Heater",,,1,1,,1,1,,,,,1,,1,,,1,,4,4
+Meadow Park,1150,Apartment,,4,4,"WiFi, Car Park, Air Conditioner, Laundry Services, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater, Shuttle Van",,,1,1,1,,1,,,1,1,1,1,1,1,1,1,1,3,4
+Stanford,250,House,,1,1,"Washing Machine, Kitchen, Fridge, Water Heater",,,,,,,,1,,,,1,,1,,,1,,3,4
+Stanford,900,House,,4,4,"Washing Machine, Kitchen, Fridge, Water Heater",,,,,,,,1,,,,1,,1,,,1,,3,4
+Beijing A,340,Room,,1,1,Washing Machine,,,,,,,,1,,,,,,,,,,,3,14
+Mahsuri,310,Room,,1,1,"WiFi, Car Park, Air Conditioner, Washing Machine, Kitchen, Wardrobe, Fridge, Sofa, Water Heater",,,1,1,1,,,1,,,,1,1,1,1,,1,,3,7
+Yale,200,Room,,1,1,"WiFi, House Keeping Services, Washing Machine, Kitchen, Fridge",,,1,,,1,,1,,,,1,,1,,,,,4,5
+Pangsapuri Sutera,220,Apartment,,3,2,"WiFi, Car Park, Air Conditioner, House Keeping Services, Washing Machine, Fridge",,,1,1,1,1,,1,,,,,,1,,,,,1,4
+meadow park,250,Room,,1,1,"WiFi, Car Park, Air Conditioner, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater, Shuttle Van",,,1,1,1,,,1,,1,1,1,1,1,1,1,1,1,4,4
+meadow park,1000,Apartment,,4,4,"WiFi, Car Park, Air Conditioner, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater, Shuttle Van",,,1,1,1,,,1,,1,1,1,1,1,1,1,1,1,4,4
+Oxford,320,Room,,1,1,"WiFi, Car Park, House Keeping Services, Washing Machine, Kitchen, Wardrobe, Fridge, Water Heater",,,1,1,,1,,1,,,,1,1,1,,,1,,4,15
+Yale,290,Room,,1,1,"WiFi, Car Park, Air Conditioner, House Keeping Services, Washing Machine, Kitchen, Water Heater",,,1,1,1,1,,1,,,,1,,,,,1,,5,5
+westlake,290,Room,,1,1,"WiFi, House Keeping Services, Washing Machine, Fridge, Water Heater",,,1,,,1,,1,,,,,,1,,,1,,3,7
+Beijing,290,Room,,1,1,"WiFi, Car Park, House Keeping Services, Laundry Services, Kitchen, Wardrobe, Fridge, Television, Water Heater",,,1,1,,1,1,,,,,1,1,1,,1,1,,3,13
+Beijing ,320,Room,,15,15,"WiFi, Car Park, Laundry Services, Kitchen, Wardrobe, Fridge, Water Heater, Shuttle Van",,,1,1,,,1,,,,,1,,1,,,1,1,4,30
+Imperial ,270,Room,,1,1,"WiFi, House Keeping Services, Washing Machine, Kitchen, Wardrobe, Fridge, Water Heater",,,1,,,1,,1,,,,1,1,1,,,1,,5,12
+Cambridge,230,Room,,1,1,"WiFi, Car Park, House Keeping Services, Washing Machine, Fridge, Water Heater",,,1,1,,1,,1,,,,,,1,,,1,,4,1
+Imperial,400,Room,,1,1,"WiFi, Air Conditioner, Washing Machine, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater",,,1,,1,,,1,,,,1,1,1,1,1,1,,5,12
+Imperial,3750,House,,12,12,"WiFi, Air Conditioner, Washing Machine, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater",,,1,,1,,,1,,,,1,1,1,1,1,1,,5,12
+Champs,650,Apartment,,1,1,"Air Conditioner, House Keeping Services, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Water Heater",,,,,1,1,,1,,1,1,1,1,1,,,1,,4,1
+Standford ,265,Room,,1,1,"Washing Machine, Kitchen, Fridge, Water Heater, Shuttle Van",,,,,,,,1,,,,1,,1,,,1,1,3,4
+Imperial,300,Room,,1,1,"WiFi, House Keeping Services, Washing Machine, Kitchen, Fridge, Water Heater",,,1,,,1,,1,,,,1,1,,,,1,,4,9
+Imperial ,300,Room,,1,1,"WiFi, House Keeping Services, Washing Machine, Kitchen, Fridge, Water Heater",,,1,,,1,,1,,,,1,1,,,,1,,4,9
+Westicity,230,Room,,1,1,"Car Park, Air Conditioner, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Fridge, Sofa, Water Heater, Shuttle Van",,,,1,1,,,1,,1,1,1,,1,1,,1,1,3,3
+Westcity,250,Room,,1,1,"WiFi, Car Park, Air Conditioner, House Keeping Services, Laundry Services, Washing Machine, Drying Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater, Shuttle Van",,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,6
+Champs,650,Apartment,,1,1,"WiFi, Car Park, Air Conditioner, House Keeping Services, Laundry Services, Washing Machine, Drying Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater, Shuttle Van",,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2
+Qing Hua,270,Room,,1,1,"WiFi, Car Park, House Keeping Services, Laundry Services, Water Heater, Shuttle Van",,,1,1,,1,1,,,,,,,,,,1,1,2,1
+Champs,650,Apartment,,1,1,"WiFi, Car Park, Air Conditioner, Washing Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Water Heater",,,1,1,1,,,1,,1,1,1,1,1,,,1,,5,1
+Trails of Kampar,800,House,,3,2,"Car Park, Air Conditioner, Washing Machine, Drying Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Shuttle Van",,,,1,1,,,1,1,1,1,1,1,1,1,1,,1,5,5
+Cambridge,295,House,,14,13,"WiFi, House Keeping Services, Washing Machine, Kitchen, Wardrobe, Fridge, Television, Water Heater",,,1,,,1,,1,,,,1,1,1,,1,1,,5,14
+Meadow park,320,Room,,4,4,"WiFi, Car Park, Air Conditioner, Laundry Services, Washing Machine, Drying Machine, Gymnasium, Swimming Pool, Kitchen, Wardrobe, Fridge, Sofa, Television, Water Heater, Shuttle Van",,,1,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,5,2
+Eastlake,450,House,,3,2,"Car Park, Kitchen, Wardrobe, Fridge",,,,1,,,,,,,,1,1,1,,,,,3,1
+Kampar Putra,900,Room,,1,1,"WiFi, Car Park, Air Conditioner, Washing Machine, Kitchen, Fridge, Sofa, Television, Water Heater",,,1,1,1,,,1,,,,1,,1,1,1,1,,4,4
+Kampar Putra,200,Room,,4,4,"WiFi, Car Park, Air Conditioner, Washing Machine, Kitchen, Fridge, Sofa, Television, Water Heater",,,1,1,1,,,1,,,,1,,1,1,1,1,,4,4
+Westcity Condomimium,250,Apartment,,1,1,"WiFi, Car Park, Air Conditioner, Washing Machine, Swimming Pool, Kitchen, Fridge, Sofa, Water Heater",,,1,1,1,,,1,,,1,1,,1,1,,1,,4,3
+Westcity Condomimium,750,Apartment,,3,2,"WiFi, Car Park, Air Conditioner, Washing Machine, Swimming Pool, Kitchen, Fridge, Sofa, Water Heater",,,1,1,1,,,1,,,1,1,,1,1,,1,,4,3

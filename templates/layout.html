@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/frame.css') }}">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+    <!-- Required by slider-->
+    <!--
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js">
+    -->
+    <title>TellMe Dashboard</title>
+    <style>
+    body {
+      margin: 0;
+    }
+    
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      width: 25%;
+      background-color: #f1f1f1;
+      position: fixed;
+      height: 100%;
+      overflow: auto;
+    }
+    
+    li a {
+      display: block;
+      color: #000;
+      padding: 8px 16px;
+      text-decoration: none;
+    }
+    
+    li a.active {
+      background-color: #4CAF50;
+      color: white;
+    }
+    
+    li a:hover:not(.active) {
+      background-color: #555;
+      color: white;
+    }
+    
+    * {
+      box-sizing: border-box;
+    }
+    
+    body {
+      margin: 0;
+    }
+    
+    /* Style the header */
+    .header {
+      background-color: #f1f1f1;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    .column {
+      float: left;
+      width: 20%;
+    }
+    
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    </style>
+</head>
+<body>
+    <!--
+    <ul>
+      <li><a class="active" href="#home">Home</a></li>
+      <li><a href="#news">News</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="#about">About</a></li>
+    </ul>
+   
+    <div style="margin-left:25%;padding:1px 16px;height:1000px;">
+        --> 
+    <table style="width:100%">
+        <tr>
+            <th rowspan="2" class="chart" id="bargraph" style="position:static"></th>
+            <td class="chart" id="bargraph2" style="position:static"></td>
+        </tr>
+        <tr>
+            <td class="chart" id="bargraph3" style="position:static"></td>
+        </tr>
+    </table>
+    <script>
+        var graph1 = {{map1 | safe}};
+        Plotly.plot('bargraph',graph1,{});
+    
+        var graph2 = {{map2 | safe}};
+        Plotly.plot('bargraph2',graph2,{});
+    
+        var graph3 = {{map3 | safe}};
+        Plotly.plot('bargraph3',graph3,{});
+        
+        
+        var myPlot = document.getElementById('bargraph'),
+        data = [ { x:{{lat | safe}}, y: {{lon | safe}} } ]
+    
+        myPlot.on('plotly_click', function(data){
+        var pts = '';
+        for(var i=0; i < data.points.length; i++){
+            pts = 'x = '+data.points[i].x +'\ny = '+
+                data.points[i].y.toPrecision(4) + '\n\n';
+        }
+        alert('Closest point clicked:\n\n'+pts);
+
+    });
+        
+    </script> 
+</body>
+</html>
