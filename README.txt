@@ -3,6 +3,8 @@ The final product of the dashbaord, is not using these files:
 1. barmap.py
 2. output.py
 3. radarmap.py
+
+And these directories
 4. templates
 5. Database
 
