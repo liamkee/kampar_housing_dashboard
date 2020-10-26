@@ -1,3 +1,4 @@
+This is a Flask Web App, to run this app, use this command in your terminal: python main.py
 Due to the migration from Plotly to JS visualisation methods.
 The final product of the dashbaord, is not using these files:
 1. barmap.py
